@@ -1,1 +1,0 @@
-# yamikaniportfolio.github.io
