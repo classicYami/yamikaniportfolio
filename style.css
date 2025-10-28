@@ -34,6 +34,15 @@ nav a {
   text-decoration: none;
 }
 
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
 section {
   padding: 2rem 1rem;
   max-width: 800px;
